@@ -947,9 +947,11 @@ parallax & home seperator
 }
 
 .mini .mini-content .mini-box i {
-  display: block;
-  font-size: 20px;
-  margin-bottom: 15px;
+  font-size: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #8261ee;
+  opacity: 0.8;
 }
 
 .mini .mini-content .mini-box span {
